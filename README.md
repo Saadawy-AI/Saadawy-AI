@@ -149,6 +149,21 @@ DevOps:
 
 ---
 
+## 🏅 Certifications & Technologies
+
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+---
 # 💼 Professional Experience
 
 ## Junior Data Engineer Trainee
@@ -314,7 +329,9 @@ Relevant Coursework:
 ![Snake animation](https://github.com/Saadawy-AI/Saadawy-AI/blob/output/github-contribution-grid-snake.svg)
 
 </div>
+
 ---
+
 # 🌐 Connect With Me
 
 <p align="left">
