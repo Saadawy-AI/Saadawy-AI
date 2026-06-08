@@ -268,6 +268,26 @@ https://github.com/Saadawy-AI/Breast-Canser-Model
 
 ---
 
+---
+
+# ⭐ Featured Repositories
+
+<p align="center">
+
+<a href="https://github.com/Saadawy-AI/SmartCity">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadawy-AI&repo=SmartCity&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/Saadawy-AI/Road-Collisions-ML">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
