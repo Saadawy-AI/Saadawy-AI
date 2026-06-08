@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&width=700&lines=Hi+There+%F0%9F%91%8B+I'm+Muhammad+Saadawy;Data+Engineer+%7C+Big+Data+Engineer;Azure+Data+Engineer+%7C+ETL+Developer;Building+Scalable+Data+Pipelines" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&width=900&lines=Hi+There+%F0%9F%91%8B+I'm+Muhammad+Saadawy;Data+Engineer+%7C+Machine+Learning+Engineer;Big+Data+Engineer+%7C+Azure+Cloud+Enthusiast;Building+Data+Pipelines+%26+Intelligent+Systems" alt="Typing SVG" />
 
 <div align="center">
 
@@ -10,13 +10,38 @@
 
 # 👨‍💻 About Me
 
-I'm **Muhammad Mostafa Saadawy Amin**, a passionate **Data Engineer** focused on building scalable data platforms, real-time processing systems, and cloud-native analytics solutions.
+I'm **Muhammad Mostafa Saadawy Amin**, a passionate **Data Engineer** and **Machine Learning Engineer** focused on transforming data into intelligent solutions.
 
-* 🔭 Working on Data Engineering & Big Data projects
-* 🌱 Learning Advanced Data Architecture & Lakehouse Systems
-* ☁️ Exploring Azure Data Platform & Modern Data Stack
-* ⚡ Interested in Streaming Systems, Distributed Computing, and AI
-* 🎯 Goal: Becoming a Senior Data Engineer & Data Architect
+My experience spans Data Engineering, Big Data Processing, Machine Learning, NLP, Cloud Analytics, and Real-Time Data Systems. I enjoy building scalable ETL pipelines, designing data warehouses, developing predictive models, and deploying production-ready AI applications.
+
+### Data Engineer | Machine Learning Engineer | Big Data Enthusiast | Azure Cloud Learner
+
+* 🔭 Building Data Engineering & Machine Learning Projects
+* 🤖 Interested in AI, NLP, Predictive Analytics & MLOps
+* ☁️ Working with Azure Cloud Data Services
+* 📊 Passionate about Data Warehousing & Analytics Engineering
+* ⚡ Exploring Distributed Systems & Real-Time Streaming
+* 🎯 Goal: Becoming an AI & Data Platform Architect
+
+---
+
+# 🏆 Highlights
+
+✅ Built 10+ End-to-End ETL Pipelines
+
+✅ Designed 5+ Data Warehouses using Star Schema
+
+✅ Improved Query Performance by 40%
+
+✅ Processed Millions of Records using Spark, Hadoop & Hive
+
+✅ Developed Multiple End-to-End Machine Learning Solutions
+
+✅ Built NLP Applications for Real-Time Predictions
+
+✅ Deployed AI Applications using Streamlit & REST APIs
+
+✅ Experienced with Azure Analytics & Data Engineering Services
 
 ---
 
@@ -29,6 +54,12 @@ Data Engineering:
   - Data Modeling
   - Batch Processing
   - Stream Processing
+
+Machine Learning:
+  - NLP Applications
+  - Predictive Analytics
+  - Model Deployment
+  - MLOps Fundamentals
 
 Big Data:
   - Apache Spark
@@ -52,26 +83,46 @@ DevOps:
 
 # 🛠️ Tech Stack
 
-## Languages
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,cs,mysql" />
 </p>
 
-## Data Engineering & Big Data
+## Data Engineering
 
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
-</p>
+* ETL Pipelines
+* Data Warehousing
+* Data Modeling
+* Star Schema
+* Batch Processing
+* Streaming Processing
+* Apache Airflow
+* dbt
+
+## Big Data
 
 * Apache Spark
 * PySpark
 * Apache Kafka
 * Hadoop
 * Hive
-* Apache Airflow
-* dbt
+* Spark Structured Streaming
 * Delta Lake
+
+## Machine Learning & AI
+
+* Scikit-Learn
+* XGBoost
+* LightGBM
+* Random Forest
+* Feature Engineering
+* Model Evaluation
+* NLP
+* TF-IDF
+* NLTK
+* Streamlit
+* Joblib
 
 ## Cloud & Databases
 
@@ -81,29 +132,50 @@ DevOps:
 * Azure Stream Analytics
 * PostgreSQL
 * MySQL
+* Relational Databases
 * NoSQL Databases
+
+## DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github" />
+</p>
+
+* Docker Compose
+* GitHub Actions
+* REST APIs
+* CI/CD Pipelines
+* Streamlit Cloud
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
 ## Junior Data Engineer Trainee
 
 ### DEPI Scholarship Program | MCIT
 
-* Built 10+ ETL pipelines using Spark, Kafka, Airflow, and Python.
-* Designed Star Schema data warehouses.
-* Improved query performance by 40%.
-* Implemented cloud analytics solutions on Azure.
-* Automated deployments using GitHub Actions.
+**Jun 2025 – Dec 2025**
+
+* Built and maintained 10+ batch and streaming ETL pipelines using Python, SQL, Apache Spark, Apache Kafka, and Apache Airflow.
+* Designed analytical data warehouses using Star Schema modeling.
+* Optimized analytical queries and improved performance by up to 40%.
+* Processed millions of records using Spark, Hadoop, and Hive.
+* Implemented cloud analytics solutions on Microsoft Azure.
+* Automated deployments and monitoring using GitHub Actions and CI/CD workflows.
+
+---
 
 ## Machine Learning Trainee
 
 ### National Telecommunication Institute (NTI)
 
-* Developed ML pipelines and predictive models.
-* Worked on classification, regression, and clustering tasks.
-* Deployed ML applications using Streamlit.
+**Aug 2025 – Sep 2025**
+
+* Developed machine learning models using Scikit-Learn, Pandas, and NumPy.
+* Applied feature engineering and hyperparameter tuning techniques.
+* Built supervised and unsupervised learning solutions.
+* Deployed machine learning applications using Streamlit and REST APIs.
 
 ---
 
@@ -111,14 +183,11 @@ DevOps:
 
 ## 🏙️ Smart City – Real-Time Data Pipeline
 
-End-to-end streaming platform simulating smart city IoT systems.
+An end-to-end real-time data platform simulating smart city IoT ecosystems including vehicles, weather stations, GPS sensors, cameras, and emergency systems.
 
-### Stack
+### Technologies
 
-* Kafka
-* Spark Structured Streaming
-* Docker
-* Python
+Python • Apache Kafka • Apache Spark • Docker • Docker Compose
 
 🔗 Repository:
 https://github.com/Saadawy-AI/SmartCity
@@ -127,14 +196,19 @@ https://github.com/Saadawy-AI/SmartCity
 
 ## 🚗 Road Collision Severity Prediction
 
-Machine Learning solution for predicting road accident severity.
+An end-to-end Machine Learning system that predicts road accident severity using real-world traffic accident datasets.
 
-### Stack
+### Key Features
 
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* Streamlit
+* Data Cleaning & Feature Engineering
+* Exploratory Data Analysis (EDA)
+* Model Comparison & Optimization
+* XGBoost & LightGBM Implementation
+* Interactive Streamlit Deployment
+
+### Technologies
+
+Python • Scikit-Learn • XGBoost • LightGBM • Streamlit • Pandas
 
 🔗 Repository:
 https://github.com/Saadawy-AI/Road-Collisions-ML
@@ -143,17 +217,35 @@ https://github.com/Saadawy-AI/Road-Collisions-ML
 
 ## 📧 Spam Email Classifier
 
-NLP pipeline for spam detection with real-time predictions.
+A Natural Language Processing (NLP) application that classifies emails as spam or legitimate using machine learning techniques.
 
-### Stack
+### Key Features
 
-* NLTK
-* TF-IDF
-* Scikit-Learn
-* Streamlit
+* Text Preprocessing
+* Tokenization & Lemmatization
+* TF-IDF Vectorization
+* Model Persistence with Joblib
+* Streamlit Deployment
+
+### Technologies
+
+Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
 🔗 Repository:
 https://github.com/Saadawy-AI/spam-classifier-streamlit
+
+---
+
+## 🎗️ Breast Cancer Classification
+
+Machine Learning solution for medical diagnosis prediction based on clinical features.
+
+### Technologies
+
+Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
+
+🔗 Repository:
+https://github.com/Saadawy-AI/Breast-Canser-Model
 
 ---
 
@@ -191,24 +283,35 @@ https://github.com/Saadawy-AI/spam-classifier-streamlit
 
 # 📚 Education
 
-### Bachelor of Computers and Artificial Intelligence
+## Bachelor of Computers and Artificial Intelligence
 
-Minya National University (Expected 2027)
+**Minya National University (MNU)**
+
+Expected Graduation: **2027**
+
+Relevant Coursework:
+
+* Data Structures & Algorithms
+* Database Systems
+* Object-Oriented Programming
+* Machine Learning
+* Distributed Systems
 
 ---
 
 # 🤝 Leadership & Community
 
-* Trainer @ Unlimited
-* Mentor @ ICPC MNU Community
-* Mentor @ MENTOR Network
-* Student Activity Admin
+* 👨‍🏫 Trainer at Unlimited
+* 🏆 Mentor at ICPC MNU Community
+* 🤝 Mentor at MENTOR Network
+* 📢 Student Activity Administrator
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="left">
+
 <a href="https://github.com/Saadawy-AI">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
@@ -220,8 +323,11 @@ Minya National University (Expected 2027)
 <a href="mailto:elsameenm@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
 
 ### 💡 "Building Data Pipelines Today, Powering Intelligent Decisions Tomorrow."
+
+### ⭐ If you find my projects useful, feel free to explore my repositories and connect with me!
