@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.png" alt="Muhammad Saadawy Banner" width="100%" />
+  <img src="assets/banner.png" alt="Muhammad Saadawy Banner" width="100%" />
 </p>
 
 # <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&width=900&lines=Hi+There+%F0%9F%91%8B+I'm+Muhammad+Saadawy;Data+Engineer+%7C+Machine+Learning+Engineer;Big+Data+Engineer+%7C+Azure+Cloud+Enthusiast;Building+Data+Pipelines+%26+Intelligent+Systems" alt="Typing SVG" />
