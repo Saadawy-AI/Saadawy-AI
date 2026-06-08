@@ -307,7 +307,14 @@ Relevant Coursework:
 * 📢 Student Activity Administrator
 
 ---
+# 🐍 Contribution Snake
 
+<div align="center">
+
+![Snake animation](https://github.com/Saadawy-AI/Saadawy-AI/blob/output/github-contribution-grid-snake.svg)
+
+</div>
+---
 # 🌐 Connect With Me
 
 <p align="left">
