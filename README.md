@@ -282,6 +282,21 @@ https://github.com/Saadawy-AI/Breast-Canser-Model
 
 ---
 
+# 📈 Data Engineering Roadmap
+
+- ✅ SQL & Databases
+- ✅ Python Programming
+- ✅ ETL Development
+- ✅ Data Warehousing
+- ✅ Apache Spark
+- ✅ Apache Kafka
+- ✅ Azure Data Platform
+- 🔄 Data Lakehouse Architecture
+- 🔄 MLOps
+- 🎯 AI & Data Platform Architecture
+
+---
+
 # 📊 GitHub Analytics
 
 <div align="center">
