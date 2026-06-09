@@ -168,6 +168,7 @@ DevOps:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
+
 # 💼 Professional Experience
 
 ## Junior Data Engineer Trainee
@@ -298,16 +299,6 @@ https://github.com/Saadawy-AI/Breast-Canser-Model
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Saadawy-AI&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Saadawy-AI&theme=tokyonight&row=1&column=7" />
 
 </div>
 
