@@ -212,15 +212,11 @@ Streamlit Cloud
 
 An advanced full-stack project extending an existing Java Swing e-commerce admin panel with a complete Data Engineering pipeline and Machine Learning forecasting system, without modifying the original Java application.
 
-### Technologies
+Technologies
 
-Java • Swing • SQL Server • Python • Pandas • NumPy • XGBoost • Streamlit • SQLite • ETL • Data Warehousing
+Java • Python • SQLite • Pandas • XGBoost • Streamlit
 
-🔗 Repository:  
-https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform  
-
-🔗 Live Demo:  
-https://saadawy-ai-ikea-shopping-dashboardapp-kpdswe.streamlit.app/
+🔗 Repository · 🚀 Live Demo
 
 ---
 
