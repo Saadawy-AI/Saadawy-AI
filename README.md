@@ -8,6 +8,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Saadawy-AI&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://saadawy-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saadawy)
+
 </div>
 
 ---
@@ -17,6 +20,8 @@
 I'm **Muhammad Mostafa Saadawy Amin**, a passionate **Data Engineer** and **Machine Learning Engineer** focused on transforming data into intelligent solutions.
 
 My experience spans Data Engineering, Big Data Processing, Machine Learning, NLP, Cloud Analytics, and Real-Time Data Systems. I enjoy building scalable ETL pipelines, designing data warehouses, developing predictive models, and deploying production-ready AI applications.
+
+🌐 **Live Portfolio:** [saadawy-portfolio.vercel.app](https://saadawy-portfolio.vercel.app)
 
 ### Data Engineer | Machine Learning Engineer | Big Data Enthusiast | Azure Cloud Learner
 
@@ -201,6 +206,26 @@ DevOps:
 
 # 🚀 Featured Projects
 
+## 🛋️ IKEA Shopping – Data Engineering & ML Platform
+
+A full-stack, end-to-end data platform built on top of a Java Swing admin application: synthetic data generation, a Star Schema ETL pipeline into SQLite, XGBoost-based sales forecasting, and a live Streamlit analytics dashboard.
+
+### Key Features
+
+* Java Swing Admin Panel (SQL Server) with role-based access control
+* Synthetic Data Generation for realistic transactional volume
+* Star Schema ETL Pipeline into SQLite
+* XGBoost Sales Forecasting Model
+* Live Streamlit Analytics Dashboard
+
+### Technologies
+
+Java • Python • SQLite • Pandas • XGBoost • Streamlit
+
+🔗 Repository: https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform
+
+---
+
 ## 🏙️ Smart City – Real-Time Data Pipeline
 
 An end-to-end real-time data platform simulating smart city IoT ecosystems including vehicles, weather stations, GPS sensors, cameras, and emergency systems.
@@ -272,6 +297,9 @@ https://github.com/Saadawy-AI/Breast-Canser-Model
 # ⭐ Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
+  </a>
   <a href="https://github.com/Saadawy-AI/SmartCity">
     <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saadawy-AI&show_icons=true&theme=tokyonight"/>
   </a>
@@ -358,6 +386,10 @@ Relevant Coursework:
 # 🌐 Connect With Me
 
 <p align="left">
+
+<a href="https://saadawy-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
 <a href="https://github.com/Saadawy-AI">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
