@@ -251,7 +251,7 @@ An end-to-end Machine Learning system that predicts road accident severity using
 
 Python • Scikit-Learn • XGBoost • LightGBM • Streamlit • Pandas
 
-🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML)
+🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML) . 🚀 [Live Demo](https://road-collision-severity-app.streamlit.app/)
 
 ---
 
@@ -272,18 +272,6 @@ A Natural Language Processing (NLP) application that classifies emails as spam o
 Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
 🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit)
-
----
-
-## 🎗️ Breast Cancer Classification
-
-Machine Learning solution for medical diagnosis prediction based on clinical features.
-
-### Technologies
-
-Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
-
-🔗 [Repository](https://github.com/Saadawy-AI/Breast-Canser-Model)
 
 ---
 
