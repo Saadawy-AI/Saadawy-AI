@@ -222,7 +222,7 @@ A full-stack, end-to-end data platform built on top of a Java Swing admin applic
 
 Java • Python • SQLite • Pandas • XGBoost • Streamlit
 
-🔗 Repository: https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform
+🔗 [Repository](https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform) · 🚀 [Live Demo](https://saadawy-ai-ikea-shopping-dashboardapp-kpdswe.streamlit.app/)
 
 ---
 
@@ -234,8 +234,7 @@ An end-to-end real-time data platform simulating smart city IoT ecosystems inclu
 
 Python • Apache Kafka • Apache Spark • Docker • Docker Compose
 
-🔗 Repository:
-https://github.com/Saadawy-AI/SmartCity
+🔗 [Repository](https://github.com/Saadawy-AI/SmartCity)
 
 ---
 
@@ -255,8 +254,7 @@ An end-to-end Machine Learning system that predicts road accident severity using
 
 Python • Scikit-Learn • XGBoost • LightGBM • Streamlit • Pandas
 
-🔗 Repository:
-https://github.com/Saadawy-AI/Road-Collisions-ML
+🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML)
 
 ---
 
@@ -276,8 +274,7 @@ A Natural Language Processing (NLP) application that classifies emails as spam o
 
 Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
-🔗 Repository:
-https://github.com/Saadawy-AI/spam-classifier-streamlit
+🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit)
 
 ---
 
@@ -289,8 +286,7 @@ Machine Learning solution for medical diagnosis prediction based on clinical fea
 
 Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 
-🔗 Repository:
-https://github.com/Saadawy-AI/Breast-Canser-Model
+🔗 [Repository](https://github.com/Saadawy-AI/Breast-Canser-Model)
 
 ---
 
