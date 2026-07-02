@@ -85,71 +85,78 @@ DevOps:
 
 ---
 
-# 🛠️ Tech Stack
+🛠️ Tech Stack
 
-## Programming Languages
+Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c++,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,mysql" />
 </p>
+Data Engineering
 
-## Data Engineering
 
-* ETL Pipelines
-* Data Warehousing
-* Data Modeling
-* Star Schema
-* Batch Processing
-* Streaming Processing
-* Apache Airflow
-* dbt
+ETL Pipelines
+Data Warehousing
+Data Modeling
+Star Schema
+Batch Processing
+Streaming Processing
+Apache Airflow
+dbt
 
-## Big Data
 
-* Apache Spark
-* PySpark
-* Apache Kafka
-* Hadoop
-* Hive
-* Spark Structured Streaming
-* Delta Lake
+Big Data
 
-## Machine Learning & AI
 
-* Scikit-Learn
-* XGBoost
-* LightGBM
-* Random Forest
-* Feature Engineering
-* Model Evaluation
-* NLP
-* TF-IDF
-* NLTK
-* Streamlit
-* Joblib
+Apache Spark
+PySpark
+Apache Kafka
+Hadoop
+Hive
+Spark Structured Streaming
+Delta Lake
 
-## Cloud & Databases
 
-* Azure Synapse Analytics
-* Azure Data Factory
-* Azure Databricks
-* Azure Stream Analytics
-* PostgreSQL
-* MySQL
-* Relational Databases
-* NoSQL Databases
+Machine Learning & AI
 
-## DevOps & Tools
+
+Scikit-Learn
+XGBoost
+LightGBM
+Random Forest
+Feature Engineering
+Model Evaluation
+NLP
+TF-IDF
+NLTK
+Streamlit
+Joblib
+
+
+Cloud & Databases
+
+
+Azure Synapse Analytics
+Azure Data Factory
+Azure Databricks
+Azure Stream Analytics
+PostgreSQL
+MySQL
+Relational Databases
+NoSQL Databases
+
+
+DevOps & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-* Docker Compose
-* GitHub Actions
-* REST APIs
-* CI/CD Pipelines
-* Streamlit Cloud
+Docker Compose
+GitHub Actions
+REST APIs
+CI/CD Pipelines
+Streamlit Cloud
 
 ---
 
