@@ -1,15 +1,13 @@
+````md
 <p align="center">
   <img src="assets/banner.png" alt="Muhammad Saadawy Banner" width="100%" />
 </p>
 
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&width=900&lines=Hi+There+%F0%9F%91%8B+I'm+Muhammad+Saadawy;Data+Engineer+%7C+Machine+Learning+Engineer;Big+Data+Engineer+%7C+Azure+Cloud+Enthusiast;Building+Data+Pipelines+%26+Intelligent+Systems" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&width=900&lines=Hi+There+👋+I'm+Muhammad+Saadawy;Aspiring+Data+Engineer+%7C+ML+Engineer;Big+Data+Engineer+%7C+Azure+Cloud+Enthusiast;Building+Scalable+Data+Pipelines+%26+AI+Systems" alt="Typing SVG" />
 
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=Saadawy-AI&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Live-36BCF7?style=for-the-badge&logo=vercel&logoColor=white)](https://saadawy-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-saadawy)
 
 </div>
 
@@ -17,40 +15,36 @@
 
 # 👨‍💻 About Me
 
-I'm **Muhammad Mostafa Saadawy Amin**, a passionate **Data Engineer** and **Machine Learning Engineer** focused on transforming data into intelligent solutions.
+I'm **Muhammad Mostafa Saadawy Amin**, a passionate **Aspiring Data Engineer and Machine Learning Engineer** currently pursuing a Bachelor's degree in **Computers & Artificial Intelligence at Minya National University**.
 
-My experience spans Data Engineering, Big Data Processing, Machine Learning, NLP, Cloud Analytics, and Real-Time Data Systems. I enjoy building scalable ETL pipelines, designing data warehouses, developing predictive models, and deploying production-ready AI applications.
-
-🌐 **Live Portfolio:** [saadawy-portfolio.vercel.app](https://saadawy-portfolio.vercel.app)
+I focus on building **scalable data pipelines, data warehouses, machine learning systems, and cloud-based analytics solutions**. I enjoy transforming raw data into intelligent systems that solve real-world problems through Data Engineering, Big Data, AI, and Cloud Technologies.
 
 ### Data Engineer | Machine Learning Engineer | Big Data Enthusiast | Azure Cloud Learner
 
-* 🔭 Building Data Engineering & Machine Learning Projects
-* 🤖 Interested in AI, NLP, Predictive Analytics & MLOps
-* ☁️ Working with Azure Cloud Data Services
-* 📊 Passionate about Data Warehousing & Analytics Engineering
-* ⚡ Exploring Distributed Systems & Real-Time Streaming
-* 🎯 Goal: Becoming an AI & Data Platform Architect
+- 🔭 Building End-to-End Data Engineering & Machine Learning Projects  
+- 🤖 Interested in AI, NLP, Predictive Analytics & MLOps  
+- ☁️ Exploring Azure Cloud Data Engineering Services  
+- 📊 Passionate about Data Warehousing & Analytics Engineering  
+- ⚡ Learning Distributed Systems & Real-Time Streaming Architectures  
+- 🎯 Goal: Becoming an AI & Data Platform Architect  
 
 ---
 
 # 🏆 Highlights
 
-✅ Built 10+ End-to-End ETL Pipelines
+✅ Built multiple End-to-End ETL Pipelines  
 
-✅ Designed 5+ Data Warehouses using Star Schema
+✅ Designed analytical Data Warehouses using Star Schema  
 
-✅ Improved Query Performance by 40%
+✅ Developed Machine Learning & NLP Applications  
 
-✅ Processed Millions of Records using Spark, Hadoop & Hive
+✅ Built Real-Time Streaming Systems using Kafka & Spark  
 
-✅ Developed Multiple End-to-End Machine Learning Solutions
+✅ Created production-ready AI applications with Streamlit  
 
-✅ Built NLP Applications for Real-Time Predictions
+✅ Worked with Azure Data Engineering Services  
 
-✅ Deployed AI Applications using Streamlit & REST APIs
-
-✅ Experienced with Azure Analytics & Data Engineering Services
+✅ Experienced in Data Modeling & Query Optimization  
 
 ---
 
@@ -80,13 +74,12 @@ Cloud:
   - Azure Synapse Analytics
   - Azure Data Factory
   - Azure Databricks
-  - Azure Stream Analytics
 
 DevOps:
   - Docker
   - GitHub Actions
   - CI/CD
-```
+````
 
 ---
 
@@ -95,7 +88,7 @@ DevOps:
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql" />
 </p>
 
 ## Data Engineering
@@ -104,8 +97,6 @@ DevOps:
 * Data Warehousing
 * Data Modeling
 * Star Schema
-* Batch Processing
-* Streaming Processing
 * Apache Airflow
 * dbt
 
@@ -124,12 +115,10 @@ DevOps:
 * Scikit-Learn
 * XGBoost
 * LightGBM
-* Random Forest
-* Feature Engineering
-* Model Evaluation
 * NLP
 * TF-IDF
 * NLTK
+* Feature Engineering
 * Streamlit
 * Joblib
 
@@ -138,39 +127,20 @@ DevOps:
 * Azure Synapse Analytics
 * Azure Data Factory
 * Azure Databricks
-* Azure Stream Analytics
 * PostgreSQL
 * MySQL
-* Relational Databases
 * NoSQL Databases
 
-## DevOps & Tools
+## DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=docker,git,github" />
 </p>
 
-* Docker Compose
 * GitHub Actions
-* REST APIs
+* Docker Compose
 * CI/CD Pipelines
-* Streamlit Cloud
-
----
-
-## 🏅 Certifications & Technologies
-
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-
-![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+* REST APIs
 
 ---
 
@@ -182,12 +152,12 @@ DevOps:
 
 **Jun 2025 – Dec 2025**
 
-* Built and maintained 10+ batch and streaming ETL pipelines using Python, SQL, Apache Spark, Apache Kafka, and Apache Airflow.
-* Designed analytical data warehouses using Star Schema modeling.
-* Optimized analytical queries and improved performance by up to 40%.
-* Processed millions of records using Spark, Hadoop, and Hive.
-* Implemented cloud analytics solutions on Microsoft Azure.
-* Automated deployments and monitoring using GitHub Actions and CI/CD workflows.
+* Built ETL pipelines using Python, SQL, Spark, Kafka, and Airflow
+* Designed analytical Data Warehouses using dimensional modeling
+* Improved analytical query performance through optimization techniques
+* Processed large-scale datasets using Spark, Hadoop, and Hive
+* Worked with Azure Data Engineering Services
+* Automated workflows using GitHub Actions and CI/CD pipelines
 
 ---
 
@@ -197,149 +167,95 @@ DevOps:
 
 **Aug 2025 – Sep 2025**
 
-* Developed machine learning models using Scikit-Learn, Pandas, and NumPy.
-* Applied feature engineering and hyperparameter tuning techniques.
-* Built supervised and unsupervised learning solutions.
-* Deployed machine learning applications using Streamlit and REST APIs.
+* Built Machine Learning models using Scikit-Learn and Pandas
+* Applied feature engineering and model optimization techniques
+* Developed supervised learning pipelines
+* Deployed ML applications using Streamlit
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛋️ IKEA Shopping – Data Engineering & ML Platform
-
-A full-stack, end-to-end data platform built on top of a Java Swing admin application: synthetic data generation, a Star Schema ETL pipeline into SQLite, XGBoost-based sales forecasting, and a live Streamlit analytics dashboard.
-
-### Key Features
-
-* Java Swing Admin Panel (SQL Server) with role-based access control
-* Synthetic Data Generation for realistic transactional volume
-* Star Schema ETL Pipeline into SQLite
-* XGBoost Sales Forecasting Model
-* Live Streamlit Analytics Dashboard
-
-### Technologies
-
-Java • Python • SQLite • Pandas • XGBoost • Streamlit
-
-🔗 [Repository](https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform) · 🚀 [Live Demo](https://saadawy-ai-ikea-shopping-dashboardapp-kpdswe.streamlit.app/)
-
----
-
 ## 🏙️ Smart City – Real-Time Data Pipeline
 
-An end-to-end real-time data platform simulating smart city IoT ecosystems including vehicles, weather stations, GPS sensors, cameras, and emergency systems.
+End-to-End Real-Time IoT pipeline simulating Smart City systems.
 
-### Technologies
+**Tech Stack:**
+Python • Kafka • Spark • Docker
 
-Python • Apache Kafka • Apache Spark • Docker • Docker Compose
-
-🔗 [Repository](https://github.com/Saadawy-AI/SmartCity)
+🔗 Repository
+https://github.com/Saadawy-AI/SmartCity
 
 ---
 
 ## 🚗 Road Collision Severity Prediction
 
-An end-to-end Machine Learning system that predicts road accident severity using real-world traffic accident datasets.
+Machine Learning system predicting road accident severity.
 
-### Key Features
+**Tech Stack:**
+Python • XGBoost • LightGBM • Streamlit
 
-* Data Cleaning & Feature Engineering
-* Exploratory Data Analysis (EDA)
-* Model Comparison & Optimization
-* XGBoost & LightGBM Implementation
-* Interactive Streamlit Deployment
-
-### Technologies
-
-Python • Scikit-Learn • XGBoost • LightGBM • Streamlit • Pandas
-
-🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML)
+🔗 Repository
+https://github.com/Saadawy-AI/Road-Collisions-ML
 
 ---
 
-## 📧 Spam Email Classifier
+## 📧 Spam Message Classifier
 
-A Natural Language Processing (NLP) application that classifies emails as spam or legitimate using machine learning techniques.
+NLP-based classification system detecting Spam/Ham messages in real time.
 
-### Key Features
+### Features
 
 * Text Preprocessing
 * Tokenization & Lemmatization
 * TF-IDF Vectorization
-* Model Persistence with Joblib
 * Streamlit Deployment
+* Model Persistence with Joblib
 
-### Technologies
-
+**Tech Stack:**
 Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
-🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit)
+🔗 Repository
+https://github.com/Saadawy-AI/spam-classifier-streamlit
+
+---
+
+## 🌐 Personal Portfolio Website
+
+Professional developer portfolio showcasing projects, experience, certifications, and technical journey.
+
+**Tech Stack:**
+React • Tailwind CSS • JavaScript • Vercel
+
+🔗 Live Demo
+https://saadawy-portfolio.vercel.app
 
 ---
 
 ## 🎗️ Breast Cancer Classification
 
-Machine Learning solution for medical diagnosis prediction based on clinical features.
+Medical diagnosis classification system using Machine Learning.
 
-### Technologies
+**Tech Stack:**
+Python • Scikit-Learn • Pandas • NumPy
 
-Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
-
-🔗 [Repository](https://github.com/Saadawy-AI/Breast-Canser-Model)
-
----
-
-# ⭐ Featured Repositories
-
-<p align="center">
-  <a href="https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Saadawy-AI/SmartCity">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saadawy-AI&show_icons=true&theme=tokyonight"/>
-  </a>
-  <a href="https://github.com/Saadawy-AI/Road-Collisions-ML">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saadawy-AI&layout=compact&theme=tokyonight"/>
-  </a>
-</p>
+🔗 Repository
+https://github.com/Saadawy-AI/Breast-Canser-Model
 
 ---
 
-# 📈 Data Engineering Roadmap
+# 📈 Learning Roadmap
 
-- ✅ SQL & Databases
-- ✅ Python Programming
-- ✅ ETL Development
-- ✅ Data Warehousing
-- ✅ Apache Spark
-- ✅ Apache Kafka
-- ✅ Azure Data Platform
-- 🔄 Data Lakehouse Architecture
-- 🔄 MLOps
-- 🎯 AI & Data Platform Architecture
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=SmartCity&theme=tokyonight"/>
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Saadawy-AI&theme=tokyonight"/>
-
-</div>
+* ✅ SQL & Databases
+* ✅ Python Programming
+* ✅ ETL Development
+* ✅ Data Warehousing
+* ✅ Apache Spark
+* ✅ Apache Kafka
+* ✅ Machine Learning
+* 🔄 Data Lakehouse Architecture
+* 🔄 MLOps
+* 🎯 AI & Data Platform Architecture
 
 ---
 
@@ -347,7 +263,7 @@ Python • Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn
 
 ## Bachelor of Computers and Artificial Intelligence
 
-**Minya National University (MNU)**
+**Minya National University**
 
 Expected Graduation: **2027**
 
@@ -369,23 +285,10 @@ Relevant Coursework:
 * 📢 Student Activity Administrator
 
 ---
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Saadawy-AI/Saadawy-AI/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
 
 # 🌐 Connect With Me
 
 <p align="left">
-
-<a href="https://saadawy-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://github.com/Saadawy-AI">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -396,13 +299,16 @@ Relevant Coursework:
 </a>
 
 <a href="mailto:elsameenm@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
 </p>
 
 ---
 
-### 💡 "Building Data Pipelines Today, Powering Intelligent Decisions Tomorrow."
+### 💡 Turning Data into Scalable Systems and Intelligent Solutions
 
-### ⭐ If you find my projects useful, feel free to explore my repositories and connect with me!
+### ⭐ Always learning, building, and growing toward becoming a World-Class Data Engineer.
+
+```
+```
