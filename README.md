@@ -271,7 +271,7 @@ A Natural Language Processing (NLP) application that classifies emails as spam o
 
 Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
-🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit)
+🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit) . 🚀 [Live Demo](https://spam-classifcate.streamlit.app/)
 
 ---
 
