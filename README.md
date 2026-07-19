@@ -33,13 +33,11 @@ My experience spans Data Engineering, Big Data Processing, Machine Learning, NLP
 
 # 🏆 Highlights
 
-✅ Built 10+ End-to-End ETL Pipelines
+✅ Built End-to-End ETL Pipelines across multiple projects
 
-✅ Designed 5+ Data Warehouses using Star Schema
+✅ Designed Data Warehouses using Star Schema modeling
 
-✅ Improved Query Performance by 40%
-
-✅ Processed Millions of Records using Spark, Hadoop & Hive
+✅ Processed large-scale datasets using Spark, Kafka & Hadoop
 
 ✅ Developed Multiple End-to-End Machine Learning Solutions
 
@@ -155,49 +153,29 @@ DevOps:
 
 ---
 
-## 🏅 Certifications & Technologies
+## 🏅 Certifications
+
+| Certificate | Issuer | Date |
+|---|---|---|
+| [DEPI Top-Performing Student Recognition](https://github.com/Saadawy-AI/Certifications/blob/main/01_DEPI_Microsoft_Data_Engineer_Top_Performer_Recognition.pdf) | Ministry of Communications and Information Technology, Egypt | 2025 |
+| [Microsoft Data Engineer – Certificate of Achievement](https://github.com/Saadawy-AI/Certifications/blob/main/02_DEPI_Microsoft_Data_Engineer_Certificate_of_Achievement.pdf) | Digital Egypt Pioneers Program (DEPI) | Jun–Dec 2025 |
+| [English Business Track – DEPI Star Certified](https://github.com/Saadawy-AI/Certifications/blob/main/03_DEPI_English_Business_Track_Certified.pdf) | DEPI / OTO Courses | Jun–Dec 2025 |
+| [Build with AI – Certificate of Attendance & Completion](https://github.com/Saadawy-AI/Certifications/blob/main/04_Build_with_AI_GDG_Certificate.pdf) | Google Developer Groups OnCampus, Arab Open University | 2026 |
+| [The Principles of Writing Clean Code](https://github.com/Saadawy-AI/Certifications/blob/main/05_Mahara_Tech_Clean_Code_Certificate.pdf) | Mahara-Tech, ITI | 2026 |
+| [Microsoft Office 365](https://github.com/Saadawy-AI/Certifications/blob/main/06_Edraak_Microsoft_Office_365.pdf) | Edraak | 2024 |
+| [Business Plan & Financial Feasibility](https://github.com/Saadawy-AI/Certifications/blob/main/07_Edraak_Business_Plan_Financial_Feasibility.pdf) | Edraak | 2024 |
+| [AI and Personal Brand](https://github.com/Saadawy-AI/Certifications/blob/main/08_The_Way_Foundation_AI_Personal_Brand.pdf) | The Way Foundation | 2024 |
+
+📂 Full collection: [Certifications repository](https://github.com/Saadawy-AI/Certifications)
+
+### Technologies
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
-
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
----
-
-# 💼 Professional Experience
-
-## Junior Data Engineer Trainee
-
-### DEPI Scholarship Program | MCIT
-
-**Jun 2025 – Dec 2025**
-
-* Built and maintained 10+ batch and streaming ETL pipelines using Python, SQL, Apache Spark, Apache Kafka, and Apache Airflow.
-* Designed analytical data warehouses using Star Schema modeling.
-* Optimized analytical queries and improved performance by up to 40%.
-* Processed millions of records using Spark, Hadoop, and Hive.
-* Implemented cloud analytics solutions on Microsoft Azure.
-* Automated deployments and monitoring using GitHub Actions and CI/CD workflows.
-
----
-
-## Machine Learning Trainee
-
-### National Telecommunication Institute (NTI)
-
-**Aug 2025 – Sep 2025**
-
-* Developed machine learning models using Scikit-Learn, Pandas, and NumPy.
-* Applied feature engineering and hyperparameter tuning techniques.
-* Built supervised and unsupervised learning solutions.
-* Deployed machine learning applications using Streamlit and REST APIs.
 
 ---
 
@@ -251,7 +229,7 @@ An end-to-end Machine Learning system that predicts road accident severity using
 
 Python • Scikit-Learn • XGBoost • LightGBM • Streamlit • Pandas
 
-🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML) . 🚀 [Live Demo](https://road-collision-severity-app.streamlit.app/)
+🔗 [Repository](https://github.com/Saadawy-AI/Road-Collisions-ML) · 🚀 [Live Demo](https://road-collision-severity-app.streamlit.app/)
 
 ---
 
@@ -271,7 +249,7 @@ A Natural Language Processing (NLP) application that classifies emails as spam o
 
 Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
-🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit) . 🚀 [Live Demo](https://spam-classifcate.streamlit.app/)
+🔗 [Repository](https://github.com/Saadawy-AI/spam-classifier-streamlit) · 🚀 [Live Demo](https://spam-classifcate.streamlit.app/)
 
 ---
 
@@ -343,15 +321,6 @@ Relevant Coursework:
 * Object-Oriented Programming
 * Machine Learning
 * Distributed Systems
-
----
-
-# 🤝 Leadership & Community
-
-* 👨‍🏫 Trainer at Unlimited
-* 🏆 Mentor at ICPC MNU Community
-* 🤝 Mentor at MENTOR Network
-* 📢 Student Activity Administrator
 
 ---
 # 🐍 Contribution Snake
