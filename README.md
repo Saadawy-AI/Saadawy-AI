@@ -280,13 +280,13 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
 <p align="center">
   <a href="https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Saadawy-AI/SmartCity">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Saadawy-AI&show_icons=true&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Saadawy-AI&show_icons=true&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Saadawy-AI/Road-Collisions-ML">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Saadawy-AI&layout=compact&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saadawy-AI&layout=compact&theme=tokyonight"/>
   </a>
 </p>
 
