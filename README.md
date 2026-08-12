@@ -311,9 +311,9 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=SmartCity&theme=tokyonight"/>
+<img src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=SmartCity&theme=tokyonight"/>
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight"/>
+<img src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight"/>
 
 </div>
 
