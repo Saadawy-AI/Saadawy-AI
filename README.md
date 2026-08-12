@@ -159,12 +159,35 @@ DevOps:
 |---|---|---|
 | [DEPI Top-Performing Student Recognition](https://github.com/Saadawy-AI/Certifications/blob/main/01_DEPI_Microsoft_Data_Engineer_Top_Performer_Recognition.pdf) | Ministry of Communications and Information Technology, Egypt | 2025 |
 | [Microsoft Data Engineer – Certificate of Achievement](https://github.com/Saadawy-AI/Certifications/blob/main/02_DEPI_Microsoft_Data_Engineer_Certificate_of_Achievement.pdf) | Digital Egypt Pioneers Program (DEPI) | Jun–Dec 2025 |
-| [English Business Track – DEPI Star Certified](https://github.com/Saadawy-AI/Certifications/blob/main/03_DEPI_English_Business_Track_Certified.pdf) | DEPI / OTO Courses | Jun–Dec 2025 |
-| [Build with AI – Certificate of Attendance & Completion](https://github.com/Saadawy-AI/Certifications/blob/main/04_Build_with_AI_GDG_Certificate.pdf) | Google Developer Groups OnCampus, Arab Open University | 2026 |
-| [The Principles of Writing Clean Code](https://github.com/Saadawy-AI/Certifications/blob/main/05_Mahara_Tech_Clean_Code_Certificate.pdf) | Mahara-Tech, ITI | 2026 |
-| [Microsoft Office 365](https://github.com/Saadawy-AI/Certifications/blob/main/06_Edraak_Microsoft_Office_365.pdf) | Edraak | 2024 |
+| [Machine Learning for Data Analysis (92%)](https://github.com/Saadawy-AI/Certifications/blob/main/03_NTI_Machine_Learning_for_Data_Analysis_Certificate_of_Achievement.pdf) | NTI – Digital Egypt Youth Program | Aug–Sep 2025 |
+| [English Business Track – DEPI Star Certified](https://github.com/Saadawy-AI/Certifications/blob/main/04_DEPI_English_Business_Track_Certified.pdf) | DEPI / OTO Courses | Jun–Dec 2025 |
+| [Build with AI – Certificate of Attendance & Completion](https://github.com/Saadawy-AI/Certifications/blob/main/05_Build_with_AI_GDG_Certificate.pdf) | Google Developer Groups OnCampus, Arab Open University | 2026 |
+| [The Principles of Writing Clean Code](https://github.com/Saadawy-AI/Certifications/blob/main/06_Mahara_Tech_Clean_Code_Certificate.pdf) | Mahara-Tech, ITI | 2026 |
 | [Business Plan & Financial Feasibility](https://github.com/Saadawy-AI/Certifications/blob/main/07_Edraak_Business_Plan_Financial_Feasibility.pdf) | Edraak | 2024 |
 | [AI and Personal Brand](https://github.com/Saadawy-AI/Certifications/blob/main/08_The_Way_Foundation_AI_Personal_Brand.pdf) | The Way Foundation | 2024 |
+
+<details>
+<summary><b>📖 View certificate details</b></summary>
+
+<br>
+
+**DEPI Top-Performing Student Recognition** — Awarded by MCIT for ranking among the top-performing students in the DEPI Initiative across my governorate.
+
+**Microsoft Data Engineer – Certificate of Achievement** — 6-month track (Jun–Dec 2025) under the Digital Egypt Pioneers Program, covering data pipelines, storage, processing, and cloud-based data engineering aligned with the Microsoft learning path.
+
+**Machine Learning for Data Analysis** — 90 technical + 30 coaching hours via NTI's Digital Egypt Youth Program, completed with a score of 92%.
+
+**English Business Track – DEPI Star Certified** — Business English Track (Round 3) via OTO Courses, focused on professional communication skills.
+
+**Build with AI** — Workshop by GDG OnCampus (Arab Open University) covering Generative AI, Prompt Engineering, and practical use of Google's AI tools.
+
+**The Principles of Writing Clean Code** — Mahara-Tech (ITI) course on writing clean, maintainable, and readable code.
+
+**Business Plan & Financial Feasibility** — Edraak specialization on presenting business plans and financial feasibility studies to investors and stakeholders.
+
+**AI and Personal Brand** — The Way Foundation session (Excellent grade) on using AI to build a professional personal brand.
+
+</details>
 
 📂 Full collection: [Certifications repository](https://github.com/Saadawy-AI/Certifications)
 
