@@ -318,6 +318,7 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 <img src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight"/>
 
 </div>
+
 ---
 
 # 🔥 Contribution Streak
@@ -347,6 +348,7 @@ Relevant Coursework:
 * Distributed Systems
 
 ---
+
 # 🐍 Contribution Snake
 
 <div align="center">
