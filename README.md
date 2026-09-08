@@ -39,6 +39,8 @@ My experience spans Data Engineering, Big Data Processing, Machine Learning, NLP
 
 ✅ Processed large-scale datasets using Spark, Kafka & Hadoop
 
+✅ Deployed a Distributed Kubernetes (K3s) Cluster across 4 devices for Spark & Airflow workloads
+
 ✅ Developed Multiple End-to-End Machine Learning Solutions
 
 ✅ Built NLP Applications for Real-Time Predictions
@@ -71,6 +73,11 @@ Big Data:
   - Hadoop
   - Hive
 
+Distributed Systems:
+  - Kubernetes (K3s)
+  - Tailscale Mesh VPN
+  - MinIO Data Lake
+
 Cloud:
   - Azure Synapse Analytics
   - Azure Data Factory
@@ -90,7 +97,7 @@ DevOps:
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,mysql" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,cs,mysql,kubernetes" />
 </p>
 
 ## Data Engineering
@@ -104,7 +111,7 @@ DevOps:
 * Apache Airflow
 * dbt
 
-## Big Data
+## Big Data & Distributed Systems
 
 * Apache Spark
 * PySpark
@@ -113,6 +120,9 @@ DevOps:
 * Hive
 * Spark Structured Streaming
 * Delta Lake
+* Kubernetes (K3s)
+* Tailscale Mesh VPN
+* MinIO (S3-compatible Data Lake)
 
 ## Machine Learning & AI
 
@@ -142,10 +152,11 @@ DevOps:
 ## DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,git,github,kubernetes" />
 </p>
 
 * Docker Compose
+* Kubernetes (K3s)
 * GitHub Actions
 * REST APIs
 * CI/CD Pipelines
@@ -194,6 +205,7 @@ DevOps:
 ### Technologies
 
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-K3s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
 ![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow)
@@ -203,6 +215,28 @@ DevOps:
 ---
 
 # 🚀 Featured Projects
+
+## 🖧 FHVHV Distributed Data Cluster – Kubernetes Big Data & ML Platform
+
+An end-to-end Big Data & Machine Learning platform predicting NYC FHVHV (For-Hire Vehicle) trip durations, running on a **4-device Kubernetes (K3s) cluster** across physically separate machines connected through a **Tailscale Mesh VPN**. Covers the full lifecycle: ingestion → transformation → ML training → orchestration → analytics, using a MinIO Bronze/Silver/Gold data lake and Spark ML regression models orchestrated by Airflow.
+
+### Key Features
+
+* 4-Node Kubernetes (K3s) Cluster spanning separate physical devices over Tailscale
+* Spark Master + distributed Spark Workers (32 total cores, ~20 GiB RAM)
+* MinIO (S3-compatible) Data Lake with Bronze/Silver/Gold tiers
+* Spark ML Regression Models (Linear Regression, Random Forest, GBT) for trip-time prediction
+* Airflow DAG orchestrating the full pipeline
+* Kafka streaming layer, PostgreSQL metastore, Spark Thrift Server for Power BI/JDBC
+* Companion Streamlit dashboard for exploring aggregated results
+
+### Technologies
+
+Kubernetes (K3s) • Apache Spark • PySpark • Apache Airflow • Apache Kafka • MinIO • PostgreSQL • Tailscale • Docker • Python • Streamlit
+
+🔗 [Repository](https://github.com/Saadawy-AI/fhvhv-distributed-data-cluster)
+
+---
 
 ## 🛋️ IKEA Shopping – Data Engineering & ML Platform
 
@@ -279,12 +313,18 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 # ⭐ Featured Repositories
 
 <p align="center">
+  <a href="https://github.com/Saadawy-AI/fhvhv-distributed-data-cluster">
+    <img height="180em" src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=fhvhv-distributed-data-cluster&theme=tokyonight"/>
+  </a>
   <a href="https://github.com/Saadawy-AI/Ikea-Shopping-Data-ML-Platform">
     <img height="180em" src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
   </a>
   <a href="https://github.com/Saadawy-AI/SmartCity">
     <img height="180em" src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=SmartCity&theme=tokyonight"/>
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/Saadawy-AI/Road-Collisions-ML">
     <img height="180em" src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=Road-Collisions-ML&theme=tokyonight"/>
   </a>
@@ -301,6 +341,7 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 - ✅ Apache Spark
 - ✅ Apache Kafka
 - ✅ Azure Data Platform
+- ✅ Distributed Systems (Kubernetes / K3s)
 - 🔄 Data Lakehouse Architecture
 - 🔄 MLOps
 - 🎯 AI & Data Platform Architecture
@@ -310,6 +351,8 @@ Python • NLTK • TF-IDF • Scikit-Learn • Streamlit
 # 📊 GitHub Analytics
 
 <div align="center">
+
+<img src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=fhvhv-distributed-data-cluster&theme=tokyonight"/>
 
 <img src="https://github-readme-stats-gilt-three-78.vercel.app/api/pin/?username=Saadawy-AI&repo=Ikea-Shopping-Data-ML-Platform&theme=tokyonight"/>
 
