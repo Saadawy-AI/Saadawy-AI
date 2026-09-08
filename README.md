@@ -234,7 +234,7 @@ An end-to-end Big Data & Machine Learning platform predicting NYC FHVHV (For-Hir
 
 Kubernetes (K3s) • Apache Spark • PySpark • Apache Airflow • Apache Kafka • MinIO • PostgreSQL • Tailscale • Docker • Python • Streamlit
 
-🔗 [Repository](https://github.com/Saadawy-AI/fhvhv-distributed-data-cluster) . 🚀 [Live Demo](https://saadawy-ai-ikea-shopping-dashboardapp-
+🔗 [Repository](https://github.com/Saadawy-AI/fhvhv-distributed-data-cluster) . 🚀 [Live Demo](https://fhvhv-distributed-data-cluster.streamlit.app/)
 
 ---
 
